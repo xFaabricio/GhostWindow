@@ -53,7 +53,7 @@ Compartilhe sua tela normalmente - a janela permanecerá invisível para outros!
 - Win32 API (C++ puro)
 - Técnicas de composição de janelas (WS_EX_LAYERED)
 - Windows Display Affinity (WDA_EXCLUDEFROMCAPTURE)
-- GDI para renderização```
+- GDI para renderização
 
 ## ⚠️ Limitações Conhecidas
 
@@ -131,8 +131,8 @@ Envie PRs ou reporte issues no GitHub
 ![Windows](https://img.shields.io/badge/Windows-11+-0078D6?logo=windows&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-
-<div hidden>
+<!--
+<div hidden style="display: none">
 ### Para completar seu repositório:
 
 ```plaintext
@@ -145,3 +145,4 @@ Envie PRs ou reporte issues no GitHub
 3. Inclua um .gitignore para C++/Windows
 ```
 </div>
+-->
