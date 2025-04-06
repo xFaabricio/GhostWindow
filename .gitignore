@@ -1,0 +1,45 @@
+## Arquivos do Visual Studio ##
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.sdf
+*.opensdf
+*.log
+*.tlog/
+*.sln.docstates
+*.db
+*.opendb
+
+# Visual Studio files
+.vs/
+
+## Build ##
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+[Dd]ebug/
+[Rr]elease/
+*.exe
+*.dll
+*.ilk
+*.pdb
+*.obj
+*.res
+*.manifest
+*.exp
+*.lib
+*.idb
+*.ipch
+*.iobj
+*.ipdb
+*.log
+*.recipe
+
+## Arquivos de recursos ##
+*.rc
+*.ico
+*.aps
+
+## Arquivos específicos do seu projeto (opcional) ##
+DxOverlay.log
