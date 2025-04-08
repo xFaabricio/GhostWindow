@@ -20,7 +20,6 @@ x64/
 x86/
 [Dd]ebug/
 [Rr]elease/
-*.exe
 *.dll
 *.ilk
 *.pdb
